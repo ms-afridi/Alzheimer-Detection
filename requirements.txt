@@ -1,0 +1,1 @@
+streamlit, tensorflow, gdown, fpdf, numpy, Pillow
